@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
-	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"id": "gadolious",
+	"version": "1.0.0",
+	"name": "Gadolious Collapse",
+	"description": "wuai wuai wuai",
 	"authors": [
-		"Me!"
+		"MillieNya", "RG Ha magniv", "paco was eaten", "kai was here"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
